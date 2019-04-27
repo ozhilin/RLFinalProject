@@ -1,7 +1,7 @@
 Amir Ardalan Kalantari Dehagh - 260851609
 Oleg Zhilin - 260581713
 
-# COMP 765 Final Project - Policy Adjustment in Robotics
+# COMP 767 Final Project - Policy Adjustment in Robotics
 
 Note that when cloning this repository, the saved models are included so it might take a bit of time (the total size is slightly over 1GB)
 
